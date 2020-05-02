@@ -49,3 +49,13 @@ app.run(debug=True) #Starts the debugger
 Output:
 
 Hello World
+
+
+
+After Excecuting the code in notebook
+we will get a desired URL in the notebook
+click the URL and then add the inputs to the model using / between two values at the end of the URL
+and then run the modified URL with inputs in the browser
+Then we can see the desired output prediction of having diabetes or not
+0-no diabetes
+1- had diabetes
